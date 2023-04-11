@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there
+
+![stats](https://github-readme-stats.vercel.app/api?username=kahhian&show_icons=true&theme=dracula)
+
+### Working on bring machine learning to your piano practice sessions at home: github.com/kahhian/keiis
 
 <!--
 **kahhian/kahhian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
