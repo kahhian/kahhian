@@ -1,6 +1,6 @@
 ### Hello there
 
-![stats](https://github-readme-stats.vercel.app/api?username=kahhian&show_icons=true&theme=dracula)
+![stats](https://readme-stats-kahhian.vercel.app/api?username=kahhian&show_icons=true&theme=dracula)
 
 ### Working on bring machine learning to your piano practice sessions at home: github.com/kahhian/keiis
 
